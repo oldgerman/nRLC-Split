@@ -16,7 +16,7 @@ Thickness：**1.0mm**
 
 Minimum clearance：5mil
 
-Gerber file stacking order: GTL, G1, G2, GBL
+Gerber files stacking order: GTL, G1, G2, GBL
 
 ## 钢网 (SMT Stencil)
 

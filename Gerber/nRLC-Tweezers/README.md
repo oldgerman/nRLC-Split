@@ -12,9 +12,9 @@ PCB：4 layer
 
 Thickness：**1.6mm**
 
-Gerber file stacking order: GTL, G1, G2, GBL
+Gerber files stacking order: GTL, G1, G2, GBL
 
-## 2021/03/24 文件修改 (Modify the file)
+## 2021/03/24 文件修改 (Modify the files)
 
 请使用PCB-Tweezers_0324_ZT.zip文件，修改部分：将3.5音频连接器悬空的第4引脚进行接地
 
