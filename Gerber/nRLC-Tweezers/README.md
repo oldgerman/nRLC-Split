@@ -4,8 +4,6 @@ PCB：4层板
 
 厚：**1.6mm**
 
-最小间隙：5mil
-
 Gerber文件叠层顺序：GTL, G1, G2, GBL
 
 
@@ -13,8 +11,6 @@ Gerber文件叠层顺序：GTL, G1, G2, GBL
 PCB：4 layer 
 
 Thickness：**1.6mm**
-
-Minimum clearance：5mil
 
 Gerber file stacking order: GTL, G1, G2, GBL
 
