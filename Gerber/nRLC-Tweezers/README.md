@@ -1,16 +1,24 @@
-PCB：4 layer 
-
-Thickness：1.6mm
-
-
+## PCB工艺 (PCB process)
 
 PCB：4层板
 
-厚：1.6mm
+厚：**1.6mm**
+
+最小间隙：5mil
+
+Gerber文件叠层顺序：GTL, G1, G2, GBL
 
 
 
-## 2021/03/24 文件修改
+PCB：4 layer 
+
+Thickness：**1.6mm**
+
+Minimum clearance：5mil
+
+Gerber file stacking order: GTL, G1, G2, GBL
+
+## 2021/03/24 文件修改 (Modify the file)
 
 请使用PCB-Tweezers_0324_ZT.zip文件，修改部分：将3.5音频连接器悬空的第4引脚进行接地
 
@@ -21,8 +29,6 @@ PCB：4层板
 - PCB-Tweezers_0324_ZT.zip文件：两条测试信号线在3.5音频连接器内部被第3脚和第4脚包了两次地
 
 
-
-## 2021/03/24 Modify the file
 
 Please use the PCB-Tweezers_0324_ZT.zip file, modified part: connect the 4th pin of the 3.5 audio connector to ground.
 
