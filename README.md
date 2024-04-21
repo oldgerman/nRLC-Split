@@ -25,7 +25,6 @@ PCB, schematic, stencil, and shell files may be changed later, the latest date a
 ├─Images                          // # 图片
 ├─Manual                          // # GFX网盘手册，添加了中文机器翻译
 ├─SCH                             // # 原理图
-├─SMT                             // # SMT文件
 └─STL                             // # 3D打印模型
 ```
 
